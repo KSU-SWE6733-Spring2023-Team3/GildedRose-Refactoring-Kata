@@ -1,0 +1,21 @@
+PHPUnit 9.6.3 by Sebastian Bergmann and contributors.
+
+.Starting testSellInValueDegradesOverTime
+.Starting testStdQualityValueDegradesOverTime
+.Starting testAgedBrieQualityIncreaseOverTime
+.Starting testAgedBrieQualityIncreasePastSellInButUnderMax
+.Starting testItemQualityNeverOver50
+.Starting testStdItemQualityNeverNegative
+.Starting testStdItemQualityDegradesTwiceAsFastPastSellIn
+.Starting testSulfurasValuesNeverChange
+.Starting testBackstagePassQualityIncreaseStandard
+.Starting testBackstagePassQualityIncreaseBy2Within10Days
+.Starting testBackstagePassQualityIncreaseBy3Within5Days
+.Starting testBackstagePassQualityIs0AfterConcert
+.Starting testConjuredItemQualityDegrade
+.                                                    14 / 14 (100%)Starting testConjuredAgedBrieQualityDegradeAsNormal
+
+
+Time: 00:00.037, Memory: 6.00 MB
+
+OK (14 tests, 164 assertions)

@@ -10,7 +10,7 @@ Our team is collaborating over our Microsoft Teams channel. Face-to-Face collabo
 Video recordings are hosted in the KSU Sharepoint. They can be viewed by clicking the hyperlinks and signing in with your Kennesaw State credentials.
 
 * [Mob Programming Session 1 - Unit tests and Code Coverage](https://kennesawedu.sharepoint.com/:v:/s/Team-Spring2023Group3SWE6733-EmergingSoftwareEngineeringProc/EavhRWrI6MlLkpecWiHD15cBNfyRKYPJdJDMkrCwXEi9iQ?e=11e5WS)
-* [Mob Programming Session 2 - Adding Conjured Items using Test Driven Development]()
+* [Mob Programming Session 2 - Adding Conjured Items using Test Driven Development](https://kennesawedu.sharepoint.com/:v:/s/Team-Spring2023Group3SWE6733-EmergingSoftwareEngineeringProc/EeKokhD7kT1ArEM_ZoIFHOABeJq5vHd7eTF14mqVSRPVGg?e=Z3b2gZ)
 
 ## Test Coverage
 
